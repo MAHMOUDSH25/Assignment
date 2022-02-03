@@ -1,0 +1,7 @@
+learn about BEM in CSS
+https://sparkbox.com/foundry/bem_by_example#:~:text=BEM%20is%20a%20popular%20naming,use%20widely%20here%20at%20Sparkbox.&text=BEM%20(which%20stands%20for%20Block,read%2C%20understand%2C%20and%20scale.
+
+thursday 3\2\2022
+1- overviwew of git and github
+2- install and test git
+3- 
